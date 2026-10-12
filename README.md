@@ -101,3 +101,8 @@ Tested on Ubuntu 26.04.1 LTS running under WSL.
 
 This project is intended for learning and authorized system monitoring. Review a process before deciding whether it should be stopped.
 
+## Project Output
+
+The screenshot below demonstrates detection of a newly started process and verification that the same process instance does not trigger a duplicate alert.
+
+![Linux Background Process Monitor Output](screenshots/linux-background-monitor-output.png)
