@@ -1,2 +1,2 @@
-# Add exact Linux process names you want to monitor, one per line.
-# Example: a process name you do not expect to run.
+# Exact Linux process names to monitor, one per line.
+sleep
